@@ -23,6 +23,21 @@
                     }
                 ]
             }
+        },
+        {
+            "label": "My Hero Section 2",
+            "thumbnail": "thumbnails/my-thumbnail.png",
+            "data": {
+                "variant": "variant-a",
+                "title": "Another Title,,,",
+                "text": "Hello",
+                "actions": [
+                    {
+                        "label": "hey",
+                        "url": "https://www.stackbit.com"
+                    }
+                ]
+            }
         }
     ]
 }
