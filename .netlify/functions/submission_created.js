@@ -19,7 +19,7 @@ exports.handler = async function (event, context, callback) {
 
         callback(null, {
             statusCode: 200,
-            body: response.data.status
+            body: response.data.statuse
         });
     } catch (e) {
         callback(null, {
