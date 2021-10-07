@@ -427,7 +427,7 @@ sections:
       elementId: ''
       label: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: lorem-ipsum..
     testimonials: []
     type: TestimonialsSection
   - elementId: ''
