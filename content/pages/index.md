@@ -2,6 +2,46 @@
 title: Home
 layout: AdvancedLayout
 sections:
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
+    variant: variant-a
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: lorem-ipsum
+    text: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    form:
+      idAttr: lorem-ipsum
+      action: lorem-ipsum
+      destination: lorem-ipsum
+      fields: []
+      submitLabel: lorem-ipsum
+      type: FormBlock
+    feature:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
+    type: ContactSection
   - type: HeroSection
     elementId: homepage-hero-1
     variant: variant-a
@@ -16,7 +56,7 @@ sections:
     textAlign: left
     badge:
       label: New Website
-    title: This Is A Big Hsssero !!!!!Headldsdsdsin!!!ezzz
+    title: This Is A Big Hero Headline
     text: >-
       Aenean eros ipsum, aaainterdum quis dignissim non, sollicitudin vitae
       nisl. Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit
