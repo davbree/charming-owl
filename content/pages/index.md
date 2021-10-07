@@ -247,4 +247,22 @@ sections:
     actions: []
     posts: []
     type: FeaturedPostsSection
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
+    variant: variant-a
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    testimonials: []
+    type: TestimonialsSection
 ---
