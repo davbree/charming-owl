@@ -108,7 +108,7 @@ sections:
     width: wide
     height: tall
     textAlign: left
-    title: Join our club
+    title: Join our club!!
     bottomGap: none
     topGap: none
     text: |-
